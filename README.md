@@ -1,3 +1,5 @@
+# This repository has been deprecated and is no longer being maintained. Use at your own risk.
+
 ```html
  ███████╗ █████╗ ██████╗  ██████╗ ██████╗ ████████╗
  ██╔════╝██╔══██╗██╔══██╗██╔═══██╗██╔══██╗╚══██╔══╝
